@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "本当なんてぶっ飛ばしてよ",
+  "base_artist": "CreepHyp",
+  "createdAt": "2026-02-26T13:06:05.794237Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "本当なんてぶっ飛ばしてよ",
+      "artist": "クリープハイプ",
+      "has_synced": false,
+      "path": "select/pl_01_本当なんてぶっ飛ばしてよ_クリープハイプ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "本当なんてぶっ飛ばしてよ",
+      "artist": "クリープハイプ",
+      "has_synced": false,
+      "path": "select/pl_02_本当なんてぶっ飛ばしてよ_クリープハイプ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "本当なんてぶっ飛ばしてよ",
+      "artist": "クリープハイプ",
+      "has_synced": false,
+      "path": "select/pl_03_本当なんてぶっ飛ばしてよ_クリープハイプ.txt"
+    }
+  ]
+}
